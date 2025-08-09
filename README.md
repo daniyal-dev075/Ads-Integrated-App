@@ -54,9 +54,9 @@ A simple and clean Flutter application showcasing the integration of **Google Ad
 |----------------|--------------------------------------------------|
 | LoginView      | Simple login screen to enter the app              |
 | HomeScreen     | Displays a banner ad and navigates to other pages |
-| Screen2        | Simple content + banner ad                        |
-| Screen3        | Shows interstitial ad when accessed               |
-| Screen4        | Final screen with static content & ad integration |
+| Screen3        | Simple content + banner ad                        |
+| Screen4        | Shows interstitial ad when accessed               |
+| Screen5        | Final screen with static content & ad integration |
 
 ---
 
